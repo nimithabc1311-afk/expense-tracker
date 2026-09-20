@@ -50,6 +50,9 @@ expense-tracker/
 
 ## 📸 Project Preview
 
+<img width="1920" height="908" alt="tracker " src="https://github.com/user-attachments/assets/23129634-4382-47bc-9243-4c974fe96ac5" />
+
+
 > Add/delete transactions, view spending chart, and track your balance — all in one place.
 
 ---
